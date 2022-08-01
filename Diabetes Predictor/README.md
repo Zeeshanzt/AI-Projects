@@ -1,9 +1,13 @@
 # Diabetes Predictor
 
 ## Data Source
-  We will use the Iris dataset. It consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals.
+  The Dataset was obtained from Sklearn datasets.
   
 ## Techniques/ Tools Used
+
+### Tensorflow and ScikitLearn
+  Both of them were used for data extraction ad model training.
+
 ### Normalization
   There is use of normalization for the feature scaling for better training of the model on training dataset.
   
