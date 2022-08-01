@@ -3,7 +3,7 @@
 ## Data Source
   For the purpose of training dataset on animal images, *CIFAR* dataset was used which contained 1000 images each having 32*32*3 dimensions.
   
-##Techniques/ Tools Used
+## Techniques/ Tools Used
 ### Normalization
   There is use of normalization for the feature scaling for better training of the model on training dataset.
   
