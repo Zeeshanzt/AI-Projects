@@ -19,4 +19,4 @@
 ## Results
   The Neural Network was trained only for 5 epochs so the training accuracy was 99.08%.
   
-  ![image](https://user-images.githubusercontent.com/64379996/182150463-36b6baea-16c2-40df-9e8e-549348b20655.png)
+  ![image](https://user-images.githubusercontent.com/64379996/182150677-933ff502-a8d9-4ac6-8084-716d70464cfa.png)
