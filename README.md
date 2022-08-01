@@ -16,5 +16,5 @@
 ### Data Visualization
   Use of Matplotlib for the plotting of the validation set and training set losses.
 
-##Results
+## Results
   The Neural Network was trained only for 5 epochs so the training accuracy was 66.76%.
